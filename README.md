@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Shweba<br>🎓 Computer Science & Engineering graduate specializing in Artificial Intelligence and Machine Learning.<br><br>💻 Passionate about software development, web technologies, and problem-solving. I enjoy building responsive web applications, exploring AI/ML concepts, and continuously improving my programming skills.<br>🚀 Currently focusing on:<br><br>Frontend Development (HTML, CSS, JavaScript, React)<br>AI & Machine Learning<br>Git & GitHub<br>Full-Stack Development<br><br>🛠️ Technologies & Tools:<br><br>JavaScript<br>React<br>HTML5 & CSS3<br>Bootstrap<br>Git & GitHub<br>WordPress<br><br>🌱 Always learning, building, and challenging myself to grow as a developer.
+Hi there 👋, I'm Shweba<br>🎓 Computer Science & Engineering graduate specializing in Artificial Intelligence and Machine Learning.<br><br>💻 Passionate about software development, web technologies, and problem-solving. I enjoy building responsive web applications, exploring AI/ML concepts, and continuously improving my programming skills.<br>🚀 Currently focusing on:<br><br>Frontend Development (HTML, CSS, JavaScript, React)<br>AI & Machine Learning<br>Git & GitHub<br>Full-Stack Development<br><br>🛠️
 
 
 ## 🌐 Socials:
