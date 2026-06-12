@@ -13,6 +13,6 @@ Hi there 👋, I'm Shweba<br>🎓 Computer Science & Engineering graduate specia
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shwebasheikh&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://dummyjson.com/quotes/random)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
